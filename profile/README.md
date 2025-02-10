@@ -2,11 +2,11 @@
 
 This is an **unofficial** project for Katnip by [@yuri-kiss](https://github.com/yuri-kiss/)
 
-[scratch-gui](https://katnipscratch.github.io/gui/): Our own custom fork of TurboWarp with built in Katnip support.
+[scratch-gui](https://katnipsc.github.io/gui/): Our own custom fork of TurboWarp with built in Katnip support.
 
 [tw-mixin](https://github.com/KatnipSC/tw-mixin/): A custom server written for our GUI.
 
-Our stuff is open source! https://github.com/KatnipScratch/
+Our stuff is open source! https://github.com/KatnipSC/
 
 Katnip: https://github.com/B1j2754/Katnip/ https://katnip.org/ https://scratch.mit.edu/discuss/topic/769174/
 
