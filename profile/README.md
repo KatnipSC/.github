@@ -1,0 +1,23 @@
+# KatnipScratch
+
+This is an **unofficial** project for Katnip by [@yuri-kiss](https://github.com/yuri-kiss/)
+
+[scratch-gui](https://katnipscratch.github.io/gui/): Our own custom fork of TurboWarp with built in Katnip support.
+
+[tw-mixin](https://github.com/KatnipScratch/tw-mixin/): A custom server written for our GUI.
+
+Our stuff is open source! https://github.com/KatnipScratch/
+
+Katnip: https://github.com/B1j2754/Katnip/ https://katnip.org/ https://scratch.mit.edu/discuss/topic/769174/
+
+Turbowarp: https://github.com/Turbowarp/ https://turbowarp.org/
+
+<br />
+
+KatnipScratch is not affiliated with Katnip, Turbowarp, Scratch, the Scratch Team, or the Scratch Foundation
+
+Katnip is not affiliated with Turbowarp, Scratch, the Scratch Team, or the Scratch Foundation
+
+TurboWarp is not affiliated with Scratch, the Scratch Team, or the Scratch Foundation.
+
+Scratch is a project of the Scratch Foundation. It is available for free at https://scratch.org/.
