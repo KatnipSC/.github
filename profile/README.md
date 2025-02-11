@@ -1,6 +1,6 @@
 # KatnipSC
 
-This is an **unofficial** project for Katnip by [@yuri-kiss](https://github.com/yuri-kiss/)
+This is an **unofficial** project for Katnip by [@yuri-kiss](https://github.com/yuri-kiss/) and [@b1j2754](https://github.com/b1j2754/)
 
 [scratch-gui](https://katnipsc.github.io/gui/): Our own custom fork of TurboWarp with built in Katnip support.
 
