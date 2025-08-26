@@ -1,12 +1,10 @@
 # KatnipSC
 
-LEGACY KATNIP ORGANIZATION (ORG)
+This is the **official** project for KatnipSC by [@yuri-kiss](https://github.com/yuri-kiss/).
 
-This is the **official** project for KatnipSC by [@yuri-kiss](https://github.com/yuri-kiss/) and Katnip by [@b1j2754](https://github.com/b1j2754/)
+[scratch-gui](https://katnipsc.github.io/gui/): My own custom fork of TurboWarp with built in Katnip support.
 
-[scratch-gui](https://katnipsc.github.io/gui/): Our own custom fork of TurboWarp with built in Katnip support.
-
-[tw-mixin](https://github.com/KatnipSC/tw-mixin/): A custom server written for our GUI.
+[tw-mixin](https://github.com/KatnipSC/tw-mixin/): A custom server written for my GUI.
 
 Our stuff is open source! https://github.com/KatnipSC/
 
@@ -16,7 +14,7 @@ Turbowarp: https://github.com/Turbowarp/ https://turbowarp.org/
 
 <br />
 
-KatnipSC is not affiliated with Turbowarp, Scratch, the Scratch Team, or the Scratch Foundation
+KatnipSC is not affiliated with Katnip, Turbowarp, Scratch, the Scratch Team, or the Scratch Foundation
 
 Katnip is not affiliated with Turbowarp, Scratch, the Scratch Team, or the Scratch Foundation
 
